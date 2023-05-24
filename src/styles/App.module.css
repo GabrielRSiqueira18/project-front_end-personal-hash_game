@@ -1,0 +1,105 @@
+.container {
+    background-color: #111827;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hash-game {
+    max-width: 768px;
+    width: 100%;
+    padding: 1.25rem;
+    background-color: #1e293b;
+    -webkit-box-shadow: 0 1px 10px 0px rgba(100, 116, 139, 1);
+    -moz-box-shadow: 0 1px 10px 0px rgba(100, 116, 139, 1);
+    box-shadow: 0 1px 10px 0px rgba(100, 116, 139, 1);
+}
+
+:focus {
+    outline: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.25rem;
+}
+
+form input {
+    border: 0;
+    border-radius: 4px;
+    padding: 0.25rem 0.5rem;
+    background-color: #0f172a;
+    color: #cbd5e1;
+    font-size: 1rem;
+}
+
+form>input::placeholder {
+    color: #64748b;
+}
+
+form button {
+    border: 1px solid #0f172a;
+    border-radius: 4px;
+    padding: 0.5rem;
+    max-width: 10rem;
+    width: 100%;
+    cursor: pointer;
+    background-color: #0f172a;
+    color: #cbd5e1;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+form button:disabled {
+    cursor: default;
+    filter: brightness(0.6);
+}
+
+form button:not(:disabled):hover {
+    background-color: #1e293b;
+}
+
+.input-wrapper {
+    display: flex;
+    gap: 1rem;
+}
+
+.hash-table {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 5rem 5rem 5rem;
+    grid-template-rows: 5rem 5rem 5rem;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.hash-table-button {
+    all: unset;
+    background-color: #111827;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    color: #e2e8f0;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(148, 163, 184, 0.65);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(148, 163, 184, 0.65);
+    box-shadow: 0px 0px 7px 0px rgba(148, 163, 184, 0.65);
+}
+
+.hash-table-button:disabled {
+    cursor: not-allowed;
+}
+
+.paragraphyForm {
+    text-align: center;
+    margin-top: 1.25rem;
+    font-size: 1.25rem;
+    color: #cbd5e1;
+    font-weight: bold;
+}
