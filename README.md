@@ -18,7 +18,8 @@
 > Projct created for accomplish the simple hash game to trein arrays in javascript.
 ## No libraries were used: 
 
-[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRSiqueira18&repo=coffee-delivery-desafio-2&layout=compact&theme=blue-green)](https://github.com/GabrielRSiqueira18/coffee-delivery-desafio-2)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielRSsiqueira18)](https://github.com/GabrielRSsiqueira18/hash-game)
+
 
 # Generals informations my Github
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRSiqueira18&theme=blue-green)](https://github.com/GabrielRSiqueira18/github-readme-stats)
