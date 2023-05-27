@@ -6,7 +6,10 @@
 [![Conclusão](https://img.shields.io/badge/Conclus%C3%A3o-100%25-green)](https://github.com/GabrielRSiqueira18/hash-game)
 
 > Projeto criado para fazer um simples jogo da velha para treinar o uso de arrays em javascript.
-## Não foram usados as bibliotecas: 
+## Não foram usados as bibliotecas
+
+## Estatisticas das principais linguagens usadas no projeto
+![Linguagens](https://img.shields.io/github/languages/top/GabrielRSiqueira18/coffee-delivery-desafio-2.svg)
 
 ## English
 # Hash Game
@@ -18,8 +21,7 @@
 > Projct created for accomplish the simple hash game to trein arrays in javascript.
 > No libraries were used
 
-`Statistics about most languages useds in this project`
-
+## Statistics about most languages useds in this project
 ![Linguagens](https://img.shields.io/github/languages/top/GabrielRSiqueira18/coffee-delivery-desafio-2.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLRSiqueira18&theme=tokyonight)
