@@ -16,7 +16,7 @@
 [![Conclusão](https://img.shields.io/badge/Conclus%C3%A3o-100%25-green)](https://github.com/GabrielRSiqueira18/coffee-delivery-desafio-2)
 
 > Projct created for accomplish the simple hash game to trein arrays in javascript.
-## No libraries were used: 
+> No libraries were used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLRSiqueira18&theme=tokyonight)
 
