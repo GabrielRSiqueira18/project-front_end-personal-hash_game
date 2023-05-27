@@ -8,8 +8,6 @@
 > Projeto criado para fazer um simples jogo da velha para treinar o uso de arrays em javascript.
 ## Não foram usados as bibliotecas: 
 
-[![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRSiqueira18&repo=coffee-delivery-desafio-2&layout=compact&theme=blue-green)](https://github.com/GabrielRSiqueira18/coffee-delivery-desafio-2)
-
 ## English
 # Hash Game
 ## Site created using React
