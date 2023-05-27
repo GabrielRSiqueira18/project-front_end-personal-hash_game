@@ -18,7 +18,7 @@
 > Projct created for accomplish the simple hash game to trein arrays in javascript.
 ## No libraries were used: 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielRSsiqueira18)](https://github.com/GabrielRSsiqueira18/hash-game)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLRSiqueira18&theme=tokyonight)
 
 
 # Generals informations my Github
