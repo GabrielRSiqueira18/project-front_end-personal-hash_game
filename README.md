@@ -18,7 +18,7 @@
 > Projct created for accomplish the simple hash game to trein arrays in javascript.
 > No libraries were used
 
-`Statistics about main languages useds in this project`
+`Statistics about most languages useds in this project`
 
 ![Linguagens](https://img.shields.io/github/languages/top/GabrielRSiqueira18/coffee-delivery-desafio-2.svg)
 
