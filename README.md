@@ -22,7 +22,6 @@
 > No libraries were used
 
 ## Statistics about most languages useds in this project
-![Linguagens](https://img.shields.io/github/languages/top/GabrielRSiqueira18/coffee-delivery-desafio-2.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLRSiqueira18&theme=tokyonight)
 
